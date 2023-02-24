@@ -1,0 +1,3 @@
+CREATE TABLE register (fname VARCHAR(45),mname VARCHAR(45),lname VARCHAR(45),gender VARCHAR(45),fathername VARCHAR(45),
+			mobileno BIGINT,emailid VARCHAR(45),ten VARCHAR(45),tenschool VARCHAR(45),twelethschool VARCHAR(45),
+			tweleth VARCHAR(45),collage VARCHAR(45),password VARCHAR(45), security VARCHAR, answer VARCHAR);
